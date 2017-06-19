@@ -1,0 +1,12 @@
+\select@language {french}
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}D\IeC {\'e}veloppement}{2}
+\contentsline {subsection}{\numberline {2.1}Description du cas}{2}
+\contentsline {subsection}{\numberline {2.2}Description de la controverse}{4}
+\contentsline {subsection}{\numberline {2.3}Th\IeC {\'e}matiques impliqu\IeC {\'e}es}{5}
+\contentsline {subsubsection}{\numberline {2.3.1}Chronos}{5}
+\contentsline {subsubsection}{\numberline {2.3.2}Diatrib\IeC {\`e}}{6}
+\contentsline {subsubsection}{\numberline {2.3.3}La veille technologique}{6}
+\contentsline {subsection}{\numberline {2.4}Diagnostic}{7}
+\contentsline {section}{\numberline {3}Conclusion}{8}
