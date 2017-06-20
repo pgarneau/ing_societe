@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.7)  19 JUN 2017 15:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.7)  19 JUN 2017 22:28
 entering extended mode
 **./garp2405.tex
 (garp2405.tex
@@ -533,7 +533,7 @@ Package babel Info: Making ? an active character on input line 368.
 \FBfnindent=\skip52
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty")
-No file garp2405.aux.
+(garp2405.aux)
 \openout1 = `garp2405.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -545,7 +545,7 @@ LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 14.
 LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 14
 .
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
 LaTeX Font Info:    ... okay on input line 14.
@@ -553,8 +553,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count108
 \scratchdimen=\dimen125
@@ -659,65 +658,82 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 
-No file garp2405.toc.
+(garp2405.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 5.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 5.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 5.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+)
 \tf@toc=\write3
 \openout3 = `garp2405.toc'.
 
-[1]
+ [1]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
- [2]
+
+[2]
 Overfull \hbox (25.72638pt too wide) in paragraph at lines 51--52
 []\OT1/ptm/m/n/12 La contro-verse dans le su-jet de la neu-tra-lit[]e du net pe
 ut pro-ve-nir de diff[]erents as-pects de la probl[]ematique.
  []
 
-[3] [4]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
- [5] [6] [7]
-Overfull \hbox (86.74406pt too wide) in paragraph at lines 77--80
+[3] [4] [5] [6] [7]
+Overfull \hbox (86.74406pt too wide) in paragraph at lines 76--79
 \OT1/pcr/m/n/12 https://www.theverge.com/2014/1/15/5311948/net-neutrality-and-t
 he-death-of-the-internet 
  []
 
 
-Overfull \hbox (80.62408pt too wide) in paragraph at lines 82--85
+Overfull \hbox (80.62408pt too wide) in paragraph at lines 81--84
 \OT1/pcr/m/n/12 https://www.theverge.com/2017/5/2/15520818/verizon-net-neutrali
 ty-craig-silliman-truth 
  []
 
 
-Overfull \hbox (307.06334pt too wide) in paragraph at lines 87--90
+Overfull \hbox (307.06334pt too wide) in paragraph at lines 86--89
 \OT1/pcr/m/n/12 https://arstechnica.com/tech-policy/2017/04/isps-claim-to-love-
 net-neutrality-while-praising-death-of-net-neutrality-rules/ 
  []
 
 
-Overfull \hbox (288.7034pt too wide) in paragraph at lines 102--105
+Overfull \hbox (288.7034pt too wide) in paragraph at lines 101--104
 \OT1/pcr/m/n/12 https://journalistsresource.org/studies/society/internet/net-ne
 utrality-debate-underlying-dynamics-research-perspectives 
  []
 
-[8] [9] (garp2405.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[8] [9] (garp2405.aux) ) 
 Here is how much of TeX's memory you used:
- 4196 strings out of 493335
- 56682 string characters out of 3136681
- 141408 words of memory out of 3000000
- 7661 multiletter control sequences out of 15000+200000
- 18241 words of font info for 35 fonts, out of 3000000 for 9000
+ 4242 strings out of 493335
+ 57562 string characters out of 3136681
+ 140394 words of memory out of 3000000
+ 7690 multiletter control sequences out of 15000+200000
+ 25196 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,4n,30p,4134b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on garp2405.pdf (10 pages, 83400 bytes).
+ 40i,4n,30p,4184b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/font
+name/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on garp2405.pdf (10 pages, 84327 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
